@@ -12,3 +12,7 @@ h2.intro {
   color: darkblue;
   font-size: 40px;
 }
+p.intro {
+  font-style: italic;
+  font-weight: bold;
+}
