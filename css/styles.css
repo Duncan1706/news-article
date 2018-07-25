@@ -7,3 +7,8 @@ h1.intro {
 body {
   text-align: center;
 }
+h2.intro {
+  font-family: sans-serif;
+  color: darkblue;
+  font-size: 40px;
+}
