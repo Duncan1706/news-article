@@ -1,4 +1,4 @@
-h1.intro {
+.introd {
   text-align: center;
   font-family: sans-serif;
   color: #EC0D6B;
@@ -7,7 +7,7 @@ h1.intro {
 body {
   text-align: center;
 }
-h2.intro {
+.introdu {
   font-family: sans-serif;
   color: darkblue;
   font-size: 40px;
@@ -16,6 +16,6 @@ p.intro {
   font-style: italic;
   font-weight: bold;
 }
-h3.intro {
+.introduc {
   color: red;
 }
